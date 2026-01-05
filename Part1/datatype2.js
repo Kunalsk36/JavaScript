@@ -48,6 +48,3 @@ console.log(sm1 == sm2); // false
 console.log(sm3 == sm4); // false
 // const sm5 = new Symbol(); // this will throw new error TypeError: Symbol is not a constructor
 // console.log(sm5);
-
-
-// Non-Primitive
