@@ -24,7 +24,7 @@ console.log(firstName); //null
 console.log(middleName); // undefined
 console.log(lastName); // undefined
 
-// String
+// String ->
 // we can define string by
 let str1 = "Kunal";
 let str2 = 'Shrikant';
